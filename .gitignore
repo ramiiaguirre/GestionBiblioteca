@@ -1,0 +1,25 @@
+.vscode/
+
+#Archivos de GestionBiblioteca.Client
+GestionBiblioteca.Client/bin/
+GestionBiblioteca.Client/obj/
+GestionBiblioteca.Client/GestionBiblioteca.Client.csproj
+GestionBiblioteca.Client/appsettings.Development.json
+GestionBiblioteca.Client/appsettings.json
+GestionBiblioteca.Client/Program.cs
+GestionBiblioteca.Client/Properties/
+GestionBiblioteca.Client/wwwroot/js/*
+GestionBiblioteca.Client/wwwroot/lib/*
+
+#Archivos de GestionBiblioteca.Service
+GestionBiblioteca.Service/bin/
+GestionBiblioteca.Service/obj/
+GestionBiblioteca.Service/GestionBiblioteca.Service.csproj
+GestionBiblioteca.Service/appsettingsConnections.json
+
+
+#Archivos de GestionBiblioteca.BusinessLogic
+GestionBiblioteca.BusinessLogic/bin/
+GestionBiblioteca.BusinessLogic/obj/
+GestionBiblioteca.BusinessLogic/GestionBiblioteca.BusinessLogic.csproj
+
